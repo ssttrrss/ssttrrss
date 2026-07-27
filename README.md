@@ -8,9 +8,19 @@
 
 <br clear="both">
 
-<h1 data-importer="text" align="left">Hello World!!</h1>
+<h1 data-importer="text" align="left">🛡️ Cybersecurity & Network Security Specialist</h1>
 
-###
+<p align="left">
+  🔐 Specializing in Penetration Testing, Vulnerability Assessment, Network Security & Security Automation.
+</p>
+
+### 🎯 Top Cybersecurity Projects:
+- 🛡️ **[shabakawy](https://github.com/ssttrrss/shabakawy)** — Network Security & Automation Framework.
+- ⚡ **[stevensqli](https://github.com/ssttrrss/stevensqli)** — Automated SQL Injection Scanner & Security Testing Tool.
+- 🔍 **[stevenxss](https://github.com/ssttrrss/stevenxss)** — XSS Vulnerability Scanner & Security Auditor.
+- 🤖 **[steevRATbot](https://github.com/ssttrrss/steevRATbot)** — Interactive Remote Administration & Security Bot.
+- 🌐 **[SpotUp-apps](https://github.com/ssttrrss/SpotUp-apps)** — Cybersecurity Dashboards & Real-world Network Apps.
+- ⚙️ **[sh-win64](https://github.com/ssttrrss/sh-win64)** — Windows Security & Automation Suite.
 
 <br clear="both">
 
