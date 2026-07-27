@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="200" hspace="30" vspace="15" src="https://i.imgflip.com/65efzo.gif" />
+<img data-importer="image" align="right" width="160" height="160" hspace="25" vspace="10" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
